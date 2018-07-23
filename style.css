@@ -1,0 +1,121 @@
+
+ body{
+   
+     scroll-behavior: auto;
+     scroll-snap-type: 
+     
+ }
+
+
+ .head-left {
+      float: left;
+     position: relative; 
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     border-right:2px solid black; 
+     font-size:15px;
+     padding:2px;
+     padding-right: 10px;
+     margin: 10px;
+  }
+
+
+     
+        
+        
+   .head-right { 
+     float: right;
+     position: relative; 
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     border-right:2px solid black; 
+     font-size:15px;
+     padding:2px;
+     padding-right: 10px;
+     margin:10px;
+     }
+
+
+ .boogle-center {
+     position: relative;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 75px;
+    color:black;
+
+   
+    margin: 10px;
+    top:50px;
+
+ 
+}
+
+    
+.search-main {
+
+    margin: 10px;
+    padding: 10px;
+
+
+}
+
+
+
+.search-bar {
+    scroll-behavior: auto;
+    position: relative; 
+ 
+    border: 3px solid black;
+    padding: 5px;
+  
+    
+}
+
+.advanced-search {
+
+    position: absolute;
+    padding: 10px;
+    bottom:285px;
+ 
+}
+
+.search-button {
+    
+    position: relative; 
+  
+
+
+}
+
+
+
+.bottom{
+
+     
+     position: relative;
+     bottom: 1px;
+     border-right:2px solid black; 
+     padding:2px;
+     padding-right: 10px;
+     margin:10px; 
+    
+
+}
+
+.boogle-2018 {
+
+ margin-top:10px;
+
+}
+
+.footer{
+    position: absolute;
+    bottom: 1px;
+    left: 500px;
+    padding: 10px;
+
+}
+
+
+
+
+
+
+
